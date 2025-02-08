@@ -2,7 +2,7 @@
 # 🚀 Machine Learning Projects
 A collection of machine learning projects developed. Each project explores different ML techniques, datasets, and use cases.
 
-https://github.com/Ab-Romia/ML-Projects/settings## 📂 Repository Structure
+https://github.com/Ab-Romia/ML-Projects## 📂 Repository Structure
 This repository contains the following projects:
 
 | Project Name | Description | Technologies Used |
